@@ -1,0 +1,1 @@
+Test project to reproduce issue of lombok with JDK 10.

@@ -1,0 +1,20 @@
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ
+.idea
+*.iml
+.project
+.settings
+
+# Eclipse
+.metadata
+.checkstyle
+.fbExcludeFilterFile
+
+#Spring
+.springBeans
+.factorypath
+
+# Maven
+target
